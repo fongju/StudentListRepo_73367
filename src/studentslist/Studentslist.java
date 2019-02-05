@@ -6,7 +6,9 @@ package studentslist;
 
 /**
  *
- * @author USER date
+ * @author USER 
+ *Date
+ *Location
  */
 public class Studentslist {
 
